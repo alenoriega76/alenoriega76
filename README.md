@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Alejandro Noriega</h1>
+<div class="header" align="center">
+   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300">
+  <h1 align="center">Hi 👋, I'm Alejandro Noriega</h1>
+ 
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alenoriega76&label=Profile%20views&color=0e75b6&style=flat" alt="alenoriega76" /> </p>
 
 - 🌱 I’m currently learning **React**
